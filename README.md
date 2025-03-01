@@ -120,6 +120,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [MA 241 Calculus II - NCSU](https://www.math.ncsu.edu/calculus/web/MA241lectures.html)
   - [MA 242 Calculus III - NCSU](https://courses.ncsu.edu/ma242/common/media/OutlineOfLectures.html)
   - [MA 341 Applied Differential Equations I - NCSU](https://www.math.ncsu.edu/mmc/ma341lectures.php)
+  - [MAT 137 Calculus with proofs, Fall 2020 - University of Toronto](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
 - **Linear Algebra**
   - [18.06SC	Linear Algebra (Fall 2011) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
